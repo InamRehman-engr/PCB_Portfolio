@@ -184,9 +184,8 @@ This GitHub repository acts as my hardware engineering portfolio and demonstrate
 
 Open to hardware engineering, embedded systems, robotics, and mechatronics opportunities.
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
-- GitHub: your-github-profile
+- Email: inamir7409@gmail.com
+- Portfolio: https://inamrehman-portfolio.vercel.app
 
 ---
 
