@@ -116,9 +116,9 @@ This project focused on a custom ESP32-based control and interface PCB for a UAV
 
 <div align="center">
 
-![UAV PCB Top Layer](Custom%20UAV%20Control%20%26%20Interface%20PCB/Top_layer.png)
+![UAV PCB Top Layer](Custom%20UAV%20Control%20%26%20Interface%20PCB/3D_Top.png)
 
-![UAV PCB 3D View](Custom%20UAV%20Control%20%26%20Interface%20PCB/3D_Top.png)
+![UAV PCB 3D View](Custom%20UAV%20Control%20%26%20Interface%20PCB/PCB.jpeg)
 
 </div>
 
@@ -157,6 +157,36 @@ This GPIO expansion project was developed around the RP2040 microcontroller in a
 
 ---
 
+### 4) Custom ESP32-S3 Development Board
+Custom development board designed around the ESP32-S3 for embedded systems prototyping.
+
+This project covers the design of a custom ESP32-S3 development board, from PCB layout and design-for-manufacturability review to the finished PCB.
+
+#### Key Features
+- Custom PCB based on the ESP32-S3
+- Development board for embedded systems prototyping
+- Design-for-manufacturability review
+
+#### Technologies
+- ESP32-S3
+- PCB Design
+- DFM
+- Embedded Systems
+
+<div align="center">
+
+![ESP32-S3 Development Board Overview](Esp32-S3%20Dev%20Board/All.png)
+
+![ESP32-S3 Development Board DFM](Esp32-S3%20Dev%20Board/DFM.png)
+
+![ESP32-S3 Development Board Final PCB](Esp32-S3%20Dev%20Board/Final%20PCB.jpeg)
+
+</div>
+
+[Project Folder: ESP32-S3 Dev Board](Esp32-S3%20Dev%20Board)
+
+---
+
 ## Portfolio Focus
 
 My portfolio emphasizes practical embedded hardware engineering, with a strong focus on:
@@ -192,4 +222,3 @@ Open to hardware engineering, embedded systems, robotics, and mechatronics oppor
 ## Closing Note
 
 This repository reflects my engineering approach: practical design, robust implementation, and hardware solutions built to work in real-world applications.
-
